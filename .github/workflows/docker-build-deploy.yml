@@ -48,7 +48,7 @@ jobs:
   deploy:
     needs: build-and-push
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'  # Only deploy on push to main
+    if: github.ref == 'refs/heads/master'  # Only deploy on push to master
     permissions:
       contents: read
       pages: write
@@ -63,8 +63,8 @@ jobs:
 
       - name: Build site
         run: |
-          docker pull ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:main
-          docker run --name quartz_container ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:main npx quartz build
+          docker pull ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:master
+          docker run --name quartz_container ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:master npx quartz build
           docker cp quartz_container:/usr/src/app/public ./public
           docker rm quartz_container
 
