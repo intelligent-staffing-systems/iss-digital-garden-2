@@ -1,10 +1,5 @@
 ---
 title: Docker Installation Guide
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-08-25
 ---
 This guide sets up docker with the `compose` plugin, as is recommended by docker.  `docker-compose` has been deprecated.
 

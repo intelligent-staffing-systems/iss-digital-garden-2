@@ -7,4 +7,4 @@ draft: true
 date: 2024-09-09
 ---
 
-[[git github initialize a new repository]]
+[[Initialize a new GitHub Repo]]

@@ -1,10 +1,5 @@
 ---
 title: Appointment Setter System Architecture
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-19
 ---
 
 

@@ -1,10 +1,5 @@
 ---
 title: Rails New Command Flags Analysis
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-12
 ---
 
 ## Basic Configuration Flags

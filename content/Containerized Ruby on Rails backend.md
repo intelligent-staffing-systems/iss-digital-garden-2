@@ -1,10 +1,5 @@
 ---
 title: Containerized Ruby on Rails backend
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-09
 ---
 
 ## Prerequisites

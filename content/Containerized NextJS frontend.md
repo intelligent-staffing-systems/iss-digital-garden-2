@@ -1,10 +1,5 @@
 ---
 title: Containerized NextJS frontend
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-09
 ---
 ## Pre-Requisites
 - [[Docker Installation Guide]]
@@ -67,7 +62,7 @@ If so, following commands are useful:
 
 ## Final Steps for this step
 1. [[Update ownership of project files]]
-2. Push changes to a remote repository - consider [[git github initialize a new repository]]
+2. Push changes to a remote repository - consider [[Initialize a new GitHub Repo]]
 
 ## Filetree state
 Our project should currently look like this:

@@ -1,10 +1,5 @@
 ---
 title: Update ownership of project files
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-09
 ---
 
 You may have noticed all the files in our frontend directory are now owned by the root user. 

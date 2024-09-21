@@ -1,10 +1,5 @@
 ---
 title: Docker stop and remove unwanted containers
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-21
 ---
 
 ## Stop all running containers

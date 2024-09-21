@@ -1,10 +1,5 @@
 ---
 title: iss - architecture proposal 1
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-12
 ---
 
 ```mermaid
