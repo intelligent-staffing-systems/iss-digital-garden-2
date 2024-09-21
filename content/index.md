@@ -35,4 +35,4 @@ Let's cultivate the future of intelligent staffing systems, one appointment at a
 ### Contact 
 Email: lucas.draney@intelligentstaffingsystems.com
 LinkedIn: https://www.linkedin.com/company/104469233/admin/dashboard/
-GitHub: https://github.com/intelligent-staffing-systems/iss-appointment-setter
+GitHub: https://github.com/intelligent-staffing-systems
