@@ -50,6 +50,5 @@ I WANT an easy way to see my customers, last contact date, how calls have went, 
     - [ ] Implement load balancing and auto-scaling strategies
 
 ## Other links
-[[ISS Appointment Setter - Initial Idea]]
 [[ISS setter system prompt]]
 [[LLM Phone Caller System Architecture]]

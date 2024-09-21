@@ -1,10 +1,5 @@
 ---
 title: rails db create command
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-13
 ---
 The command `rails db:create` is used in Ruby on Rails applications to create the database(s) specified in your database configuration file (usually `config/database.yml`).
 

@@ -1,10 +1,5 @@
 ---
 title: Set up audio streaming from Next to Ruby to mini-omni
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-19
 ---
 
 - [ ] [[Set up basic Next.js audio recording]]

@@ -1,10 +1,5 @@
 ---
 title: setup a Rails API backend for a Next.js frontend
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-12
 ---
 For your setup with a Rails API backend and a Next.js frontend in a single repo, certain flags are indeed more desirable. Let's go through the most relevant ones:
 

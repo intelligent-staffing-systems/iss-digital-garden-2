@@ -1,10 +1,5 @@
 ---
 title: create a new Database in Ruby
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-08-27
 ---
 
 ## **Create a Docker network**: 

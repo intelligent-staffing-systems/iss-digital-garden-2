@@ -1,10 +1,5 @@
 ---
 title: Set up mock phone call system
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-19
 ---
 
 

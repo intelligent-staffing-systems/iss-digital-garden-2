@@ -1,10 +1,5 @@
 ---
 title: docker-compose.yml full stack template
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-08-26
 ---
 
 Docker Compose orchestrates our multi-container application, adhering to software architecture principles and development best practices.
