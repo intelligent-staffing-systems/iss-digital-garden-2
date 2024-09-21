@@ -1,54 +1,38 @@
 ---
-title: ISS digital garden home page
+title: Welcome to Intelligent Staffing Systems
 ---
-# Welcome to Intelligent Staffing Systems
 
-## Revolutionizing Appointment Setting with AI
+Welcome to the digital garden for Intelligent Staffing Solutions! 
+We are passionate about customized AI business solution that are capable of managing client interactions.
 
-Welcome to the digital garden of Intelligent Staffing Systems. Here, we cultivate ideas, nurture innovation, and grow solutions that are reshaping the landscape of AI-powered appointment setting.
+This site serves as a single reference for potential partners, collaborators, fellow experts or learners.
+Our garden unifies our company vision and technical documentation. 
+This allows us to continually iterate and produce amazing products;
+And to give back to an open-source community that has been at the heart of this project.
 
-### 🌟 Our Vision
+## Our Flagship Project: [[ISS Appointment Setter]]
+We're excited to introduce our groundbreaking project, the ISS Appointment Setter. It leverages cutting-edge AI technology to provide:
 
-At Intelligent Staffing Systems, we envision a world where businesses can seamlessly connect with their clients through intelligent, efficient, and cost-effective appointment setting. We're not just adapting to the future of AI in business communications - we're defining it.
+- **Real-time Speech-to-Speech Conversations**: No separate ASR or TTS models needed.
+- **"Talking while Thinking"**: Generates responses in real-time, reducing perceived latency.
+- **Streaming Audio Output**: Enhances user experience with immediate feedback.
+- **Batch Inference**: Boosts performance for audio-to-text and audio-to-audio tasks.
 
-### 🚀 Our Innovative Approach
+## Why Collaborate with Us?
+ISS builds upon latest DevOps best practices, with a bias towards cloud-native practices.  
+This means we seek for a simplified developer experience, while also keeping our apps stable, scalable, and secure.
+We're using open-source technology to overcome current market limitations in real-time AI conversations.
 
-We've harnessed the power of cutting-edge open-source technology to overcome current market limitations in real-time AI conversations. Our secret weapon? The groundbreaking mini-omni approach.
+We aim to build systems that enable:
+- **Cost-Efficiency**: Our approach significantly reduces costs for both us and our clients.
+- **Full Control**: We do our best to manage everything in-house, from our application to LLM model hosting.
+- **Continuous Improvement**: With full control over our tech stack, we rapidly iterate based on real-world feedback.
 
-#### Key Features:
-- **Real-time Speech-to-Speech:** Instant conversation capability without separate ASR or TTS models.
-- **"Talking while Thinking":** Our AI generates responses in real-time, dramatically reducing perceived latency.
-- **Streaming Audio Output:** Provides immediate feedback to users, enhancing the conversation experience.
-- **Batch Inference:** Boosts performance for both audio-to-text and audio-to-audio tasks.
+## Join Our Journey
+Whether you're a potential collaborator, client, or fellow expert in AI and software development, we invite you to explore our digital garden. Discover our innovative approach, learn about our technology stack, and see how we're shaping the future of intelligent staffing systems.
 
-### 💡 Why Choose Intelligent Staffing Systems?
-
-1. **Cost-Efficiency:** By leveraging open-source technologies and managing everything in-house, we significantly reduce costs for both ourselves and our clients.
-
-2. **Full Control:** From our internal application and phone system (Phonify) to LLM model hosting, we have complete control over our entire product stack.
-
-3. **Scalability:** Our approach allows for easy scaling to meet growing demand without compromising on quality or speed.
-
-4. **Continuous Improvement:** With full control over our tech stack, we can rapidly iterate and improve our service based on real-world feedback.
-
-### 🌱 Growing Our Garden
-
-This digital garden is a living, breathing space where we share our journey, insights, and innovations. Feel free to explore:
-
-- [[Our Technology Stack]]
-- [[The Mini-Omni Approach]]
-- [[Case Studies]]
-- [[Future Roadmap]]
-- [[Join Our Team]]
-
-### 🔬 Current Focus: In-House Infrastructure
-
-While we're currently using lightning.ai for development, our ultimate goal is to host all infrastructure ourselves. This level of integration and control will allow us to push the boundaries of what's possible in AI-driven appointment setting.
-
-### 🤝 Let's Connect
-
-We're always excited to discuss how our innovative approach can benefit your business. Whether you're looking to streamline your appointment setting process or just curious about the cutting edge of AI in business communications, we'd love to hear from you.
-
-[[Contact Us]]
-
-Join us as we cultivate the future of intelligent staffing systems, one appointment at a time.
+Let's cultivate the future of intelligent staffing systems, one appointment at a time.
+### Contact 
+Email: lucas.draney@intelligentstaffingsystems.com
+LinkedIn: https://www.linkedin.com/company/104469233/admin/dashboard/
+GitHub: https://github.com/intelligent-staffing-systems/iss-appointment-setter

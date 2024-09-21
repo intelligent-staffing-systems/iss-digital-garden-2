@@ -1,11 +1,8 @@
 ---
-title: ISS digital garden home page
+title: Introducing the ISS Appointment Setter
 ---
-# Welcome to Intelligent Staffing Systems
 
 ## Revolutionizing Appointment Setting with AI
-
-Welcome to the digital garden of Intelligent Staffing Systems. Here, we cultivate ideas, nurture innovation, and grow solutions that are reshaping the landscape of AI-powered appointment setting.
 
 ### 🌟 Our Vision
 
@@ -50,5 +47,3 @@ While we're currently using lightning.ai for development, our ultimate goal is t
 We're always excited to discuss how our innovative approach can benefit your business. Whether you're looking to streamline your appointment setting process or just curious about the cutting edge of AI in business communications, we'd love to hear from you.
 
 [[Contact Us]]
-
-Join us as we cultivate the future of intelligent staffing systems, one appointment at a time.
