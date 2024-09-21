@@ -63,8 +63,8 @@ jobs:
 
       - name: Build site
         run: |
-          docker pull ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:master
-          docker run --name quartz_container ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:master npx quartz build
+          docker pull ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+          docker run --name quartz_container ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }} npx quartz build
           docker cp quartz_container:/usr/src/app/public ./public
           docker rm quartz_container
 
