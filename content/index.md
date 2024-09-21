@@ -1,5 +1,5 @@
 ---
-title: Welcome Welcome
+title: Welcome Welcome - bidirectional test
 ---
 
 testchange
