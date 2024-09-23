@@ -16,6 +16,7 @@ This system aims to reduce the workload on human staff, improve appointment sche
 ## Architecture
 This project implements an AI-powered appointment setting system using Next.js, Ruby on Rails, and various LLM services.
 -  [[iss appointment setter system architecture]]
+- [[Containerizing the LLM API - Future Considerations]]
 ### External integrations
 - OAuth Authentication - users sign in with Microsoft, which we utilize for authentication, authorization, and calendar integration (Outlook)
 - Lightning.ai gpu hosting 
@@ -28,26 +29,9 @@ I WANT an easy way to see my customers, last contact date, how calls have went, 
 - [x] [[Client authorization and authentication into dashboard]]
 - [x] [[Containerized Ruby on Rails backend]]
 - [x] [[Docker Compose Full Stack]]
-- [ ] [[Set up mock phone call system]]
-- [ ] [[Set up audio streaming from Next to Ruby to mini-omni]]
-- [ ] [[Database Integration]]
-   - [ ] Design schema for storing conversation logs and transcriptions
-   - [ ] Implement data persistence layer in Ruby on Rails
-- [ ] [[Rails API Integration]]
-   - [ ] Create endpoints in Rails to interface with LLM services
-   - [ ] Implement authentication and request validation
-   - [ ] Use transcription for a huggingface model tuning pipeline
-- [ ] [[Next.js Frontend Integration]]
-   - [ ] Develop UI components for appointment setting
-   - [ ] [[Reverse engineer Air Api]]
-   - [ ] [[Build out my own version of Air, prioritizing scalability and security]]
-   - [ ] Implement API calls to Rails backend
-- [ ] [[Testing and Optimization]]
-   - [ ] Write unit and integration tests for all components
-   - [ ] Perform load testing and optimize for production use
-- [ ] [[Deployment and Scaling]]
-    - [ ] Set up Docker containers for each service
-    - [ ] Implement load balancing and auto-scaling strategies
+- [ ] [[Phonify - Simulated Telephony Environment]]
+
+[[possible next steps for the iss appointment setter]]
 
 ## Other links
 [[ISS setter system prompt]]

@@ -1,0 +1,23 @@
+---
+title: possible next steps
+---
+
+- [ ] [[Set up audio streaming from Next to Ruby to mini-omni]]
+- [ ] [[Database Integration]]
+   - [ ] Design schema for storing conversation logs and transcriptions
+   - [ ] Implement data persistence layer in Ruby on Rails
+- [ ] [[Rails API Integration]]
+   - [ ] Create endpoints in Rails to interface with LLM services
+   - [ ] Implement authentication and request validation
+   - [ ] Use transcription for a huggingface model tuning pipeline
+- [ ] [[Next.js Frontend Integration]]
+   - [ ] Develop UI components for appointment setting
+   - [ ] [[Reverse engineer Air Api]]
+   - [ ] [[Build out my own version of Air, prioritizing scalability and security]]
+   - [ ] Implement API calls to Rails backend
+- [ ] [[Testing and Optimization]]
+   - [ ] Write unit and integration tests for all components
+   - [ ] Perform load testing and optimize for production use
+- [ ] [[Deployment and Scaling]]
+    - [ ] Set up Docker containers for each service
+    - [ ] Implement load balancing and auto-scaling strategies
