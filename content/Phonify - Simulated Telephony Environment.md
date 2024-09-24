@@ -38,8 +38,8 @@ I WANT a simulated phone system that integrates with our AI backend
 SO THAT I can test and refine our AI-driven appointment setting conversations without incurring real-world call costs
 
 ## Acceptance Criteria
-- [ ]
-- [ ] [[Set up FreeSWITCH in Docker]]
+- [ ] [[Read Over Freeswitch Basics in Documentation]]
+- [ ] [[Set up Default FreeSWITCH config in Docker]]
 - [ ] [[Integrate FreeSWITCH with Rails backend]]
 - [ ] [[Implement SIP client in Next.js frontend]]
 - [ ] [[Create mock call initiation and receiving interface]]
@@ -50,5 +50,3 @@ SO THAT I can test and refine our AI-driven appointment setting conversations wi
 - [ ] [[Document usage and testing procedures for the team]]
 
 ---
-
-[[learning freeswitch]]
