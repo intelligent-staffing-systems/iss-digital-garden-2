@@ -36,3 +36,4 @@ I WANT an easy way to see my customers, last contact date, how calls have went, 
 ## Other links
 [[ISS setter system prompt]]
 [[LLM Phone Caller System Architecture]]
+[[Implementing Google and Microsoft OAuth in Next.js with App Router]]
