@@ -58,10 +58,10 @@ The default NextJS page is now visible on my browser localhost:3000!
 ## Debug
 You may get an error such as: `Bind for 0.0.0.0:3000 failed: port is already allocated`
 If so, following commands are useful:
-[[Docker stop and remove unwanted containers]]
+[[Docker cleanup commands]]
 
 ## Final Steps for this step
-1. [[Update ownership of project files]]
+1. [[Update ownership of project files (chown)]]
 2. Push changes to a remote repository - consider [[Initialize a new GitHub Repo]]
 
 ## Filetree state
