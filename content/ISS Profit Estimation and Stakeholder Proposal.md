@@ -12,7 +12,7 @@ We expand into big ticket sales for customized products, enabling businesses to 
 
 ## 1. Individual Revenue Model
 The individual Revenue Model is really just designed for us to build credibility and get off the ground.  
-It assumes we able to scale to 1000 users with minimal infrastructure costs.
+It assumes we able to scale to 1000 users with minimal infrastructure costs.  
 [[Revenue Model - ISS Appointment Setter for Individuals]] 
 
 ## 2. ISS-Setter Implementation for Teams
