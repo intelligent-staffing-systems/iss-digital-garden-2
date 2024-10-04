@@ -4,6 +4,12 @@ It serves as a single reference point for collaborators, potential clients, and 
 
 ## Dev Guide
 Clone this repo in the same directory as your obsidian. 
+To test locall run:
+```
+$ docker run -p 8080:8080 iss-digital-garen
+```
+
+### Syncing with Obsidian
 In scripts/ is a bidirectional-sync.sh.  Notice the paths at the top of the file. 
 Adjust the obsidian path to the name of your obsidian project.
 In your obsidian, create an iss-digital-garden directory, and move any files you wish to publish there. 
