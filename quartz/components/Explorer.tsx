@@ -8,33 +8,18 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 
-// Options interface defined in `ExplorerNode` to avoid circular dependency
+// Import our custom functions
+import { sortFn, filterFn, mapFn } from "./iss-explorer-config"
+
 const defaultOptions = {
   folderClickBehavior: "collapse",
-  folderDefaultState: "collapsed",
+  folderDefaultState: "open", // Changed to 'open' as per our config
   useSavedState: true,
-  mapFn: (node) => {
-    return node
-  },
-  sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabetically
-    if ((!a.file && !b.file) || (a.file && b.file)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
-    }
-
-    if (a.file && !b.file) {
-      return 1
-    } else {
-      return -1
-    }
-  },
-  filterFn: (node) => node.name !== "tags",
-  order: ["filter", "map", "sort"],
+  title: "ISS Navigator", // Set our custom title
+  mapFn,
+  sortFn,
+  filterFn,
+  order: ["sort", "filter", "map"], // Changed order as per our config
 } satisfies Options
 
 export default ((userOpts?: Partial<Options>) => {
@@ -51,9 +36,8 @@ export default ((userOpts?: Partial<Options>) => {
     fileTree = new FileNode("")
     allFiles.forEach((file) => fileTree.add(file))
 
-    // Execute all functions (sort, filter, map) that were provided (if none were provided, only default "sort" is applied)
+    // Execute all functions (sort, filter, map) that were provided
     if (opts.order) {
-      // Order is important, use loop with index instead of order.map()
       for (let i = 0; i < opts.order.length; i++) {
         const functionName = opts.order[i]
         if (functionName === "map") {
@@ -66,8 +50,7 @@ export default ((userOpts?: Partial<Options>) => {
       }
     }
 
-    // Get all folders of tree. Initialize with collapsed state
-    // Stringify to pass json tree as data attribute ([data-tree])
+    // Get all folders of tree. Initialize with open state
     const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed")
     jsonTree = JSON.stringify(folders)
   }
