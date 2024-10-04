@@ -60,3 +60,4 @@ SO THAT I can ensure my clients are utilizing our available products and service
 [[ISS setter system prompt]]  
 [[LLM Phone Caller System Architecture]]  
 [[Implementing Google and Microsoft OAuth in Next.js with App Router]]  
+[[ISS Profit Estimation and Stakeholder Proposal]]
