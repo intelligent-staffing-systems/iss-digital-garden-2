@@ -9,7 +9,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "ISS",
-    logo: "logo.png",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
