@@ -25,5 +25,3 @@ To schedule your consultation, please:
 - Suggest a few dates and times that work for you
 
 We look forward to exploring how ISS can help you harness the power of custom AI solutions!
-
-[[Our Services]] | [[Client Success Stories]] | [[FAQs]]

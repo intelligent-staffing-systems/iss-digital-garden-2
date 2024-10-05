@@ -52,4 +52,4 @@ InnovateNow, a global tech company, implemented our Bespoke Communication Ecosys
 - 30% increase in project completion speed
 - 25% improvement in employee satisfaction scores
 
-[[Request a Consultation]] | [[Communication Ecosystem Case Studies]] | [[FAQ]]
+[[Request a Consultation]] 

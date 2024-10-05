@@ -31,5 +31,3 @@ We believe in giving back to the community that has contributed to our success. 
 4. **Testing**: Rigorous quality assurance and user acceptance testing
 5. **Deployment**: Smooth implementation with comprehensive training
 6. **Maintenance**: Ongoing support and continuous improvement
-
-[[Our Tech Stack]] | [[Client Success Stories]] | [[Meet Our Team]]

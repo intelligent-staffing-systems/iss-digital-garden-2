@@ -40,4 +40,4 @@ TechStart, a rapidly growing software company, implemented ISS-Setter for their 
 - 25% increase in project completion rates
 - 50% decrease in missed deadlines
 
-[[Request a Demo]] | [[ISS-Setter Features]] | [[Team Productivity Case Studies]]
+[[Request a Consultation]]
