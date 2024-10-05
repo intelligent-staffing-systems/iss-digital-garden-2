@@ -1,8 +1,5 @@
 ---
 title: Intelligent Staffing Systems - Custom AI Solutions
-tags: 
-- recipe
-- cookies
 ---
 
 Welcome to Intelligent Staffing Systems' digital garden! 
