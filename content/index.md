@@ -54,8 +54,8 @@ Our ISS Appointment Setter showcases the potential of our custom AI solutions:
 Join us in shaping the future of business communication and operations. With ISS, you're not just getting a product – you're investing in a transformative, owned AI solution that grows with your business.
 
 ### Contact 
-Email: lucas.draney@intelligentstaffingsystems.com
-LinkedIn: https://www.linkedin.com/company/104469233/
-GitHub: https://github.com/intelligent-staffing-systems
+Email: lucas.draney@intelligentstaffingsystems.com  
+LinkedIn: https://www.linkedin.com/company/104469233/  
+GitHub: https://github.com/intelligent-staffing-systems  
 
 [[Request a Consultation]] | [[Our Case Studies]] | [[ISS Technology Blog]]
