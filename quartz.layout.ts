@@ -10,8 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/intelligent-staffing-systems",
       LinkedIn: "https://www.linkedin.com/company/104469233/"
-      'Request a Consultation': "/Connect/Request-a-Consultation", // Static link, relative to site root
-      'Meet Our Team': "Connect/Meet-Our-Team",
+      "Request a Consultation": "/Connect/Request-a-Consultation", // Static link, relative to site root
+      "Meet Our Team": "Connect/Meet-Our-Team",
     },
   }),
 };
