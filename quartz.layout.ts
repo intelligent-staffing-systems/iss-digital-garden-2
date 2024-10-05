@@ -9,9 +9,12 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/intelligent-staffing-systems",
+      LinkedIn: "https://www.linkedin.com/company/104469233/"
+      'Request a Consultation': "/Connect/Request-a-Consultation", // Static link, relative to site root
+      'Meet Our Team': "Connect/Meet-Our-Team",
     },
   }),
-}
+};
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
