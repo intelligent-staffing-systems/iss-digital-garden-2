@@ -1,19 +1,19 @@
 ---
-title: Intelligent Staffing Systems - Custom AI Solutions
+title: Custom AI and Communication Solutions
 ---
 
-Welcome to Intelligent Staffing Systems' digital garden! 
 We specialize in building profitable, customized AI web applications that revolutionize how businesses communicate and operate.  
-
-[[Revolutionize Your Industry with AI-Powered Communication Solutions]]
-
-## Our Unique Offering: [[The Power of Custom AI Software Ownership]]
-At ISS, we believe in empowering businesses through technology ownership. Our approach allows you to:
 
 - **Own Your AI**: Gain full control over your custom AI solutions, tailored to your specific needs.
 - **Reduce Long-term Costs**: Eliminate ongoing SaaS fees with a one-time investment in your own system.
 - **Ensure Data Privacy**: Keep your sensitive information within your own infrastructure.
 - **Scale Seamlessly**: Grow your system alongside your business without limitations.
+
+[[Revolutionize Your Industry with AI-Powered Communication Solutions]]
+
+[[The Power of Custom AI Software Ownership]]
+
+[[Flexible Partnerships for Innovative Ventures]]
 
 ## Our Tech Stack: [[ISS Technology Suite]]
 We leverage a powerful combination of cutting-edge technologies for rapid iteration:
@@ -25,7 +25,6 @@ We leverage a powerful combination of cutting-edge technologies for rapid iterat
 - **DevOps Best Practices**: Guaranteeing smooth deployment and maintenance.
 
 This elite tech stack allows our small, expert team to build incredible products like custom Slack-like AI systems owned entirely by your business.
-
 
 ## Flagship Project: [[ISS Appointment Setter]]
 Our ISS Appointment Setter showcases the potential of our custom AI solutions:
@@ -53,10 +52,3 @@ Our ISS Appointment Setter showcases the potential of our custom AI solutions:
 - [[Bespoke Communication Ecosystems]]: Tailored AI-driven communication solutions
 
 Join us in shaping the future of business communication and operations. With ISS, you're not just getting a product – you're investing in a transformative, owned AI solution that grows with your business.
-
-### Contact Us
-Email: lucas.draney@intelligentstaffingsystems.com  
-LinkedIn: https://www.linkedin.com/company/104469233/  
-GitHub: https://github.com/intelligent-staffing-systems  
-
-[[Request a Consultation]] | [[Meet Our Team]] | [[ISS Development Philosophy]]
