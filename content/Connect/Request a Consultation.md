@@ -1,5 +1,5 @@
 ---
-title: Request a Consultation with ISS
+title: Request a Consultation
 ---
 
 Ready to explore how custom AI solutions can transform your business? Schedule a consultation with our team of experts at Intelligent Staffing Systems.

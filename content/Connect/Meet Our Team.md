@@ -1,5 +1,5 @@
 ---
-title: meet our team
+title: Meet Our Team
 ---
 
 ## Updates coming soon!

@@ -1,5 +1,5 @@
 ---
-title: ISS Development Philosophy - Building the Future of AI Solutions
+title: ISS Development Philosophy
 ---
 
 At Intelligent Staffing Systems, our development philosophy guides every project we undertake. It's the foundation of our approach to creating custom AI solutions that truly transform businesses.
