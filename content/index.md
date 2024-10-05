@@ -34,13 +34,6 @@ Our ISS Appointment Setter showcases the potential of our custom AI solutions:
 - Streaming Audio Output
 - Efficient Batch Inference
 
-## Why Choose ISS for Your Custom AI Solution?
-- **Expertise**: Our unique blend of AI knowledge, full-stack development, and communication infrastructure expertise.
-- **Cost-Efficiency**: Significantly reduce long-term costs through software ownership.
-- **Customization**: Tailor-made solutions that precisely fit your organizational needs.
-- **Future-Proofing**: Scalable systems with ongoing support and upgrades.
-- **Data Control**: Maintain full control over your software and data.
-
 ## Our Approach: [[ISS Development Philosophy]]
 - Focus on long-term partnerships and recurring value
 - Rapid iteration based on real-world feedback
