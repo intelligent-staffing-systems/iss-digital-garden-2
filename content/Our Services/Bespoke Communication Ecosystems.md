@@ -1,11 +1,10 @@
 ---
 title: Bespoke Communication Ecosystems
 ---
----
-title: Bespoke Communication Ecosystems - Intelligent Staffing Systems
----
 
 At ISS, we specialize in creating custom communication ecosystems that transform how your organization connects, collaborates, and operates. Our Bespoke Communication Ecosystems are tailored to your unique needs, integrating cutting-edge AI with advanced communication tools.
+
+Consider: [[10 Innovative AI-Powered Products for the Future]]
 
 ## Key Capabilities
 

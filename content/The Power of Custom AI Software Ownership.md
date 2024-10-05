@@ -36,5 +36,3 @@ At Intelligent Staffing Systems, we believe in the transformative power of ownin
 - **Transparent Development**: Regular updates and involvement throughout the creation process
 - **Knowledge Transfer**: We ensure your team understands how to maintain and evolve the AI
 - **Ongoing Support**: Optional maintenance and upgrade services to keep your AI cutting-edge
-
-[[Request a Consultation]] | [[Custom AI Case Studies]] | [[FAQs on AI Ownership]]

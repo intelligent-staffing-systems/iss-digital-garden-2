@@ -7,7 +7,7 @@ Ready to explore how custom AI solutions can transform your business? Schedule a
 ## What to Expect
 During your consultation, we will:
 1. Discuss your current business challenges
-2. Explore potential AI-driven solutions
+2. Explore potential AI-driven or other solutions
 3. Provide a high-level overview of our custom development process
 4. Answer any questions you have about our technology and approach
 
